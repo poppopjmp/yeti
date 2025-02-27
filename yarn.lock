@@ -162,9 +162,10 @@ optimist@^0.6.1:
     minimist "~0.0.1"
     wordwrap "~0.0.2"
 
-pdfjs-dist-viewer-min@^1.8.188:
-  version "1.8.188"
-  resolved "https://registry.yarnpkg.com/pdfjs-dist-viewer-min/-/pdfjs-dist-viewer-min-1.8.188.tgz#7d29a06a8f2a7830b0d4df7c873bab47ac2954c9"
+pdfjs-dist-viewer-min@^1.10.100:
+  version "1.10.100"
+  resolved "https://registry.yarnpkg.com/pdfjs-dist-viewer-min/-/pdfjs-dist-viewer-min-1.10.100.tgz#202f132d0e200169b9855c5258b17f3805f2825a"
+  integrity sha512-UycwuQk1AIlPgpzREpJqs0iI1aMoOriiADk266eBbBHNmPwgjuUOojLN1Mq70VpcAQR6Od9H1XzrCg4tlXE/aA==
 
 propagating-hammerjs@^1.4.6:
   version "1.4.6"
