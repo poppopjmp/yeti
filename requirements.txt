@@ -32,3 +32,4 @@ readability-lxml
 beautifulsoup4
 requests[socks]
 python-dateutil
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
